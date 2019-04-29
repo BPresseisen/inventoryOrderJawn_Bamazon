@@ -38,7 +38,7 @@ The user is walked-through various prompts per the action selected.
   
 ##### (2c) Update Item Stock Quantity Inventory #####
   
-
+<img width="652" alt="Screen Shot 2019-04-29 at 5 15 58 PM" src="https://user-images.githubusercontent.com/13972201/56927741-ea520200-6aa2-11e9-8d35-1ee34586fb51.png">
   
 ##### (2d) Add a new Item with Stock Quantity Inventory #####
 
