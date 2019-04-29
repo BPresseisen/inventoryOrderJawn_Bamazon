@@ -9,3 +9,6 @@ A database, bamazon_db was set-up, and is executable with the *bamazon_seeds.sql
 The following screenshots walk the user through how each app operates:
   
 #### (1) bamazonCustomer.js #####
+
+On execution, the user is prompted with the Sales menu and prompted to make a purchase:
+
