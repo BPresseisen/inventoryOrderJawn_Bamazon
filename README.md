@@ -4,11 +4,11 @@ This is a product sales and inventory order management platform of to demonstrat
   
 There are two (2) functional apps for this repository, *bamazonCustomer.js* and *bamazonManager.js*
   
-A database, # bamazon_db # was set-up, and is executable with the *bamazon_seeds.sql file* 
+A database, *bamazon_db* was set-up, and is executable with the *bamazon_seeds.sql file* 
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Git clone the files to a local directory of your choice. Make sure to run the npm installations!
 
 ## Built With
 
