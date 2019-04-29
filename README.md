@@ -4,7 +4,19 @@ This is a product sales and inventory order management platform of to demonstrat
   
 There are two (2) functional apps for this repository, *bamazonCustomer.js* and *bamazonManager.js*
   
-A database, bamazon_db was set-up, and is executable with the *bamazon_seeds.sql file* 
+A database, # bamazon_db # was set-up, and is executable with the *bamazon_seeds.sql file* 
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [node.js](https://nodejs.org/en/) 
+* [MySqlWorkbench](https://dev.mysql.com/downloads/workbench/) - database
+* [cli-table](https://www.npmjs.com/package/cli-table) - table to view data in the terminal; an npm library in the package-lock.json file
+* [inquirer](https://www.npmjs.com/package/inquirer#prompt) - inquirer for user prompts and responses on input; an npm library in the package-lock.json file
+* [mysql](https://www.npmjs.com/package/mysql) - mysql for SQL queries built dynamically on the connection object; an npm library in the package-lock.json file
 
 The following screenshots walk the user through how each app operates:
   
