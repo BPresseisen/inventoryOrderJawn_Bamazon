@@ -30,7 +30,7 @@ The user is walked-through various prompts per the action selected.
 
 ##### (2a) View All Items #####
   
-
+<img width="524" alt="Screen Shot 2019-04-29 at 5 14 38 PM" src="https://user-images.githubusercontent.com/13972201/56927819-17061980-6aa3-11e9-8b73-773c8160c5f3.png">
   
 ##### (2b) View Low Inventory Items #####
   
