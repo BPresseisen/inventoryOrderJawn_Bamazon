@@ -34,7 +34,7 @@ The user is walked-through various prompts per the action selected.
   
 ##### (2b) View Low Inventory Items #####
   
-
+<img width="526" alt="Screen Shot 2019-04-29 at 5 14 57 PM" src="https://user-images.githubusercontent.com/13972201/56927780-fdfd6880-6aa2-11e9-9ed8-3b4d5e1eb851.png">
   
 ##### (2c) Update Item Stock Quantity Inventory #####
   
