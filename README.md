@@ -22,9 +22,9 @@ The user is prompted to enter an item for puchase by its ID number.
   
 If the user  make a purchase that depletes inventory of a product, it will remove it from the menu. 
   
-Otherwise, it will merely update the order remaining. 
+Otherwise, it will merely update the remaining stock quantity following the order. 
   
-The data validation also handles if the user is selecting a product ID that is out of range of the menu offerings.
+The data validation also checks to see if the user selects a product ID that unavailable/not found in the menu offerings.
 
 #### (2) bamazonManager.js #####
   
