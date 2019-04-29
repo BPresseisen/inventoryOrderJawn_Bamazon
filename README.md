@@ -17,6 +17,8 @@ On file-execution in the terminal, the user is prompted with the Sales menu and 
 The prompt walks the user through the operations to make purchases.
   
 The user is prompted to enter an item for puchase by its ID number.
+
+
   
 If the user  make a purchase that depletes inventory of a product, it will remove it from the menu. Otherwise, it will merely update the order remaining. The data validation also handles if the user is selecting a product ID that is out of range of the menu offerings.
 
