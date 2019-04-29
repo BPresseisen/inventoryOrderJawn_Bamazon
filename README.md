@@ -17,10 +17,14 @@ On file-execution in the terminal, the user is prompted with the Sales menu and 
 The prompt walks the user through the operations to make purchases.
   
 The user is prompted to enter an item for puchase by its ID number.
-
-
   
-If the user  make a purchase that depletes inventory of a product, it will remove it from the menu. Otherwise, it will merely update the order remaining. The data validation also handles if the user is selecting a product ID that is out of range of the menu offerings.
+<img width="845" alt="Screen Shot 2019-04-29 at 5 23 31 PM" src="https://user-images.githubusercontent.com/13972201/56928032-a4496e00-6aa3-11e9-8a7b-38486b1290af.png">
+  
+If the user  make a purchase that depletes inventory of a product, it will remove it from the menu. 
+  
+Otherwise, it will merely update the order remaining. 
+  
+The data validation also handles if the user is selecting a product ID that is out of range of the menu offerings.
 
 #### (2) bamazonManager.js #####
   
