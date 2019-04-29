@@ -61,3 +61,7 @@ The user is walked-through various prompts per the action selected.
 ##### (2d) Add a new Item with Stock Quantity Inventory #####
 
 <img width="570" alt="Screen Shot 2019-04-29 at 5 17 05 PM" src="https://user-images.githubusercontent.com/13972201/56927670-c4c4f880-6aa2-11e9-9d25-ae221be56e6b.png">
+  
+## Authors
+
+* **Ben Presseisen** - *Initial work* - [Precise Insights](https://bpresseisen.github.io/Bootstrap-Portfolio/)
