@@ -24,4 +24,20 @@ If the user  make a purchase that depletes inventory of a product, it will remov
   
 On file-execution in the terminal, the user is prompted to choose what action they wish to perform:
   
+<img width="697" alt="Screen Shot 2019-04-29 at 11 06 04 AM" src="https://user-images.githubusercontent.com/13972201/56905760-d55b7b80-6a6e-11e9-9db9-fe9aa3064f2d.png">
+  
+The user is walked-through various prompts per the action selected.
 
+##### (2a) View All Items #####
+  
+
+  
+##### (2b) View Low Inventory Items #####
+  
+
+  
+##### (2c) Update Item Stock Quantity Inventory #####
+  
+
+  
+##### (2d) Add a new Item with Stock Quantity Inventory #####
