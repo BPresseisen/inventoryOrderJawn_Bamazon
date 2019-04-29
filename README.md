@@ -1,7 +1,11 @@
 # inventoryOrderJawn_Bamazon
   
-This is a inventory order manager platform to demonstrate the interoperabiltiy between SQL and node.JS
+This is a product sales and inventory order management platform of to demonstrate the interoperabiltiy between SQL and node.JS
   
-A database, bamazon_db was set-up, and is executable with the 
+There are two (2) functional apps for this repository, *bamazonCustomer.js* and *bamazonManager.js*
   
-There are two (2) functional 
+A database, bamazon_db was set-up, and is executable with the *bamazon_seeds.sql file* 
+
+The following screenshots walk the user through how each app operates:
+  
+####(1) bamazonCustomer.js####
